@@ -1,10 +1,100 @@
-IMSSBIENESTAR,FERNANDO JAVIER FARIAS GONZALEZ,212808610.7,Servicios
-IMSSBIENESTAR,INVITRO DIAGNOSTICS MEXICO SA DE CV,77747300.0,Servicios
-IMSS,ASESORES EN TECNOLOGIA BIOMEDICA S DE RL DE C,37350000.0,Hemodinamia
-IMSS,SERVICIO Y VENTA DE INSUMOS MEDICOS ESPECIALI,28703189.66,Hemodinamia
-CINVESTAV,CARL ZEISS DE MEXICO SA DE CV,17049540.0,Servicios
-HIM,SIEMENS HEALTHCARE DIAGNOSTICS S DE RL DE CV,12931031.0,Servicios
-IMSSBIENESTAR,TELECOMUNICACION Y EQUIPOS SA DE CV,11309179.06,Servicios
-INER,GRUPO EOLICA SA DE CV,10905600.0,Servicios
-IMSS,CASONATO STEELCO SPA SA DE CV,10850000.0,Servicios
-SEDENA,GE SISTEMAS MEDICOS DE MEXICO SA DE CV,10455614.52,Servicios
+IMSSBIENESTAR,FERNANDO JAVIER FARIAS GONZALEZ,212808610.7,Servicios,LA-47-AYO-047AYO954-N-242-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/79908df2e55e4c949768e8670c8df939/procedimiento
+IMSSBIENESTAR,INVITRO DIAGNOSTICS MEXICO SA DE CV,77747300.0,Servicios,LA-47-AYO-047AYO954-N-242-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/79908df2e55e4c949768e8670c8df939/procedimiento
+IMSS,ASESORES EN TECNOLOGIA BIOMEDICA S DE RL DE C,37350000.0,Hemodinamia,LA-50-GYR-050GYR027-T-82-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/f32ca06c900c4139a6da4e7945369610/procedimiento
+IMSS,SERVICIO Y VENTA DE INSUMOS MEDICOS ESPECIALI,28703189.66,Hemodinamia,LA-50-GYR-050GYR014-T-166-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/3f03629db1034018893877376d3be480/procedimiento
+CINVESTAV,CARL ZEISS DE MEXICO SA DE CV,17049540.0,Servicios,AA-11-L4J-011L4J999-N-214-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/3488f5f36d494c0380afb5aa247ed261/procedimiento
+HIM,SIEMENS HEALTHCARE DIAGNOSTICS S DE RL DE CV,12931031.0,Servicios,AA-12-NBG-012NBG001-N-83-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/4d61c0dcb7f449febc70f1db3350cfb0/procedimiento
+IMSSBIENESTAR,TELECOMUNICACION Y EQUIPOS SA DE CV,11309179.06,Servicios,AA-47-AYO-047AYO954-N-270-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/afed701ee6f74226aaf04df2474f4afd/procedimiento
+INER,GRUPO EOLICA SA DE CV,10905600.0,Servicios,AA-12-NCD-012NCD001-I-134-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/d44f4a1d8aea4be6a759291f4a7690b8/procedimiento
+IMSS,CASONATO STEELCO SPA SA DE CV,10850000.0,Servicios,IA-50-GYR-050GYR033-N-86-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/474b9be3e7e046f6a0939bd6556910ed/procedimiento
+SEDENA,GE SISTEMAS MEDICOS DE MEXICO SA DE CV,10455614.52,Servicios,AA-07-110-007000999-N-396-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/1da0e446e005482d9af0b6c8f3abf79d/procedimiento
+SEDENA,RADIOLOGIA Y ELECTRONICA DE MEXICO SA DE CV,10043896.4,Servicios,AA-07-110-007000999-N-404-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/c6c6b4fc04e848ddb0cb6519f0164a9c/procedimiento
+SEDENA,ELECTRONICA Y MEDICINA SA,9612762.0,Servicios,AA-07-110-007000999-N-395-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/aa435176d05443a2be7d9c40d1e552a9/procedimiento
+INCAN,SERVICIENTIFICA-MEDICA SA DE CV,9366591.71,Servicios,AA-12-NBV-012NBV001-N-290-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/78488558fbe841a39c5b9862c10b4e0c/procedimiento
+IMSS,JUAN PASTRANA BALEON,7810258.0,Servicios,IA-50-GYR-050GYR026-N-144-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/b2e4ea0a68004b939b417831051f7cbe/procedimiento
+IMSS,ALTA TECNOLOGIA EN EQUIPO MEDICO ISAGEI SA DE,5396548.28,Servicios,AA-50-GYR-050GYR009-N-124-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/93279a04464b462c9da4ec94e54de831/procedimiento
+HIM,DRÄGER MEDICAL MEXICO SA DE CV,5037895.0,Servicios,AA-12-NBG-012NBG001-N-84-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/589ec03c91b5447eb82a7c75c57bbc16/procedimiento
+IMP,FC SERVICIOS Y CONTROL DE PROCESOS SA DE CV,4562790.98,Servicios,LA-18-T0O-018T0O002-N-21-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/c1047651803c42429bab3fda0fb12b22/procedimiento
+IMSS,COMERCIALIZADORA MEDICA INTEGRAL SA DE CV,4405800.0,Consumibles,AA-50-GYR-050GYR020-T-118-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/ad7b3675b2984b8e886f1618f250fa15/procedimiento
+IMSS,GARKEN MEDICAL SA DE CV,3960261.0,Servicios,LA-50-GYR-050GYR007-N-226-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/8ff354cba9ff42f6ad3410b5a3f6c0b5/procedimiento
+INCAN,FUJIFILM DE MEXICO SA DE CV,3804428.0,Servicios,AA-12-NBV-012NBV001-N-298-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/5044d9b52d7a4abb8da9fba7760e018e/procedimiento
+INCMNSZ,AB SCIEX SA DE CV,3720153.09,Servicios,AA-12-NCG-012NCG001-N-77-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/cdbf0e937b8b4bc7a0eaf39f6680fae8/procedimiento
+IMSS,FLEXUS SA DE CV,3417020.0,Servicios,LA-50-GYR-050GYR009-N-93-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/fc7bbd53485d463396304ea049e5b26f/procedimiento
+IMSS,DESARROLLO DE CONSTRUCCIONES Y PROYECTOS DE O,3408350.02,Servicios,IA-50-GYR-050GYR002-N-115-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/30f540d689094aaeb438510dfcf40bfd/procedimiento
+SEFINCOAHUILA,LOGISTICA Y TECNOLOGIAS PARA LABORATORIOS SA,3352339.0,Servicios,LA-64-O78-905002984-N-6-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/665d528786a44819a10d8feb988a2563/procedimiento
+COLPOS,SOLUCIONES INTEGRALES PARA LABORATORIO Y SERV,3275135.34,Servicios,LA-08-IZC-008IZC999-N-57-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/550f1cde100341789ad88a597313113c/procedimiento
+SSALUDTAB,COMERCIALIZADORA Y CONSTRUCTORA SAN BALAM SA,3200000.0,Servicios,AA-86-X75-927006974-N-32-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/db0f1277c6f9451fbd970192b60a7dd0/procedimiento
+IMSSBIENESTAR,ELECTRONICA Y MEDICINA SA,3078206.0,Servicios,AA-47-AYO-047AYO934-N-35-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/e5e934ebd9a143b6841ebaf41b6f5a57/procedimiento
+IMP,MIREN GARCIA MARTINEZ,3000000.0,Servicios,AA-18-T0O-018T0O004-N-172-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/daa03c3fc8c2439288735b229966fe95/procedimiento
+IMSS,CARDIOPACE SA DE CV,2938800.0,Consumibles,AA-50-GYR-050GYR020-T-118-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/ad7b3675b2984b8e886f1618f250fa15/procedimiento
+IMSS,OPERADORA DE HOSPITALES ANGELES SA DE CV,2931726.98,Servicios,AA-50-GYR-050GYR010-N-77-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/196d0cad8d2f464098664e5bafd01f1d/procedimiento
+IMSS,CANIN MEDICS SA DE CV,2925000.0,Otros,AA-50-GYR-050GYR025-N-73-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/bbd57c0b11554e11b4fed7b9e9140017/procedimiento
+IMSS,INSUMOS MEDICOS MAR DE CORTES SA DE CV,2856020.59,Servicios,IA-50-GYR-050GYR002-N-116-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/b1571ae5c7a54333ac30d393857eadcd/procedimiento
+IMSS,GARKEN MEDICAL SA DE CV,2730600.0,Servicios,LA-50-GYR-050GYR007-N-226-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/8ff354cba9ff42f6ad3410b5a3f6c0b5/procedimiento
+IMSS,ESPECTRO BIOMEDICO SA DE CV,2718200.0,Servicios,LA-50-GYR-050GYR041-N-60-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/13f260f3350a407ea1fbc8bcfc21f9d5/procedimiento
+IMSS,COMERCIALIZADORA MEDICA INTEGRAL SA DE CV,2676219.0,Consumibles,AA-50-GYR-050GYR020-T-121-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/1623306bee4e422f8d9d9633f360ebe6/procedimiento
+IMSS,DISTRIBUIDORA DE EQUIPO MEDICO E INDUSTRIAL D,2399430.8,Servicios,AA-50-GYR-050GYR020-N-80-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/79100ddc52374e98b189cb94a0595a3a/procedimiento
+IMSS,GARKEN MEDICAL SA DE CV,2256325.2,Servicios,LA-50-GYR-050GYR007-N-226-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/8ff354cba9ff42f6ad3410b5a3f6c0b5/procedimiento
+IMSS,DISTRIBUIDORA MEDICO TECNICA LA UNION SA DE C,2241379.31,Servicios,LA-50-GYR-050GYR007-N-218-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/369c78d7a21442fd9f2725254fa976a6/procedimiento
+IMSS,JUAN PASTRANA BALEON,2241365.0,Servicios,IA-50-GYR-050GYR049-N-123-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/fda1c1d4e6b84fe3b1a3733dc7710afb/procedimiento
+IMSS,INSTRUMENTOS Y PRODUCTOS BIOMEDICOS DE MEXICO,2046758.62,Servicios,IA-50-GYR-050GYR033-N-85-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/e22bf360d7d04fefac5c0dd45f00b82d/procedimiento
+IMSS,GARKEN MEDICAL SA DE CV,1968907.5,Servicios,LA-50-GYR-050GYR007-N-226-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/8ff354cba9ff42f6ad3410b5a3f6c0b5/procedimiento
+SEDENA,ESPECIALISTAS EN ESTERILIZACION Y ENVASE SA D,1924000.0,Servicios,AA-07-110-007000999-N-405-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/f8964b01428e4ad798671ce469e70e94/procedimiento
+SADM,CLORACION E INSTRUMENTACION SA DE CV,1815000.0,Otros,IA-78-T91-919043975-N-4-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/248b9a3928f943dca7332c3ec28b3237/procedimiento
+CINVESTAV,CHRISTIAN SANCHEZ PACHECO,1800000.0,Servicios,AA-11-L4J-011L4J999-N-454-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/74e9352420334214ad09e5bf7c5f4812/procedimiento
+IMSS,COFOMER SA DE CV,1799999.88,Monitoreo,AA-50-GYR-050GYR075-T-93-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/b3158d5671af4b289c04109a63efc6b3/procedimiento
+IMSS,COFOMER SA DE CV,1799999.88,Lamparas,AA-50-GYR-050GYR075-T-93-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/b3158d5671af4b289c04109a63efc6b3/procedimiento
+IMSS,DISTRIBUIDORA EMIMEDICAL SA DE CV,1728850.0,Mobiliario,AA-50-GYR-050GYR028-T-83-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/28eec95590814054bf5182466de3d0f8/procedimiento
+IMSS,GRUPO INSOMA S A P I DE CV,1715919.86,Mobiliario,AA-50-GYR-050GYR028-T-83-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/28eec95590814054bf5182466de3d0f8/procedimiento
+IMSS,CARL ZEISS DE MEXICO SA DE CV,1684747.16,Servicios,AA-50-GYR-050GYR020-N-128-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/377a217bea29426abf1aa078860cfac1/procedimiento
+IMSS,LUIS EDUARDO SAENZ PALLARES,1663100.0,Servicios,LA-50-GYR-050GYR009-N-93-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/fc7bbd53485d463396304ea049e5b26f/procedimiento
+IMSS,HEALTHCARE SYSTEMS DE MEXICO SA DE CV,1598575.0,Servicios,IA-50-GYR-050GYR057-N-81-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/54e076b056ea4a3fa2d89cb95c4e4a78/procedimiento
+IMSS,COFOMER SA DE CV,1409999.5,Elecrocardiografo,AA-50-GYR-050GYR075-T-93-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/b3158d5671af4b289c04109a63efc6b3/procedimiento
+IMSSBIENESTAR,RADIOLOGIA Y ELECTRONICA DE MEXICO SA DE CV,1400000.0,Servicios,AA-47-AYO-047AYO954-N-270-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/afed701ee6f74226aaf04df2474f4afd/procedimiento
+IMSS,KORALLMEDICS SA DE CV,1398853.45,Consumibles,AA-50-GYR-050GYR020-T-121-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/1623306bee4e422f8d9d9633f360ebe6/procedimiento
+CINVESTAV,WATERS SA DE CV,1386844.17,Servicios,AA-11-L4J-011L4J999-N-449-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/ef185267a0904bc78f332d4b5b3d8d94/procedimiento
+SEDENA,PHILIPS MEXICO COMMERCIAL SA DE CV,1309670.0,Servicios,AA-07-110-007000999-N-398-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/02cdef687d964f39aa50baca1272dce9/procedimiento
+IMSS,INNOVACION MEDICA Y TECNOLOGIAS PARA LA SALUD,1245100.0,Consumibles,LA-50-GYR-050GYR017-T-128-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/1ab2542c68f048ea8bdcf492a592d994/procedimiento
+CONAGUA,AB SCIEX SA DE CV,1133487.06,Servicios,AA-16-B00-016B00015-N-41-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/6510614146894b8db4ed2d8ddf97155a/procedimiento
+IMSS,COMERCIO Y DISTRIBUCION CATEX SA DE CV,1119993.92,Otros,AA-50-GYR-050GYR075-N-104-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/c8fce58405b046739d9f66ceecb44a09/procedimiento
+NN,DISTRIBUIDORA COMERCIAL ZOGBI SA DE CV,1100000.0,Rayos x,IA-65-P04-906026988-N-3-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/ec3b8b727e3045769a321f62a51792e9/procedimiento
+IMSS,DISTRIBUIDORA DE EQUIPO MEDICO E INDUSTRIAL D,1098090.0,Servicios,AA-50-GYR-050GYR020-N-80-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/79100ddc52374e98b189cb94a0595a3a/procedimiento
+INNN,SERVICIOS BIOMEDICOS BAZAFI SA DE CV,1066646.0,Servicios,AA-12-NCK-012NCK002-N-45-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/f788bc5d75af445db9a6afc097624d15/procedimiento
+IMSS,CEIFMED SA DE CV,1044175.81,Mobiliario,AA-50-GYR-050GYR028-T-82-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/810d8cf6392c4af7a751b591ee913802/procedimiento
+IMSS,FRESENIUS KABI MEXICO SA DE CV,1022401.8,Servicios,IA-50-GYR-050GYR058-T-82-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/afb00bb725844ce7b810fbfb9f6b65d6/procedimiento
+IMSS,EDMUNDO GARCIA SANCHEZ,1007371.55,Servicios,IA-50-GYR-050GYR049-N-116-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/87e7d8fa946d49d890e9e767aff7bcb9/procedimiento
+IMSS,BEMET INGENIERIA Y EQUIPO MEDICO SA DE CV,1006840.0,Servicios,AA-50-GYR-050GYR020-N-80-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/79100ddc52374e98b189cb94a0595a3a/procedimiento
+IMSS,AMC BIOMEDICAL SA DE CV,961800.0,Consumibles,AA-50-GYR-050GYR009-T-134-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/532a898699614f88b2d8518da4882a5e/procedimiento
+IMSS,ALTA TECNOLOGIA EN EQUIPO MEDICO ISAGEI SA DE,958800.0,Anestesia,LA-50-GYR-050GYR014-T-166-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/3f03629db1034018893877376d3be480/procedimiento
+IPN,CONTROL TECNICO Y REPRESENTACIONES SA DE CV,888349.0,Servicios,AA-11-B00-011B00001-N-3155-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/079280ebe9924b928d9fe133d9c264db/procedimiento
+INNN,DRÄGER MEDICAL MEXICO SA DE CV,865626.24,Servicios,AA-12-NCK-012NCK002-N-44-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/4dffda519edc4c1d86e1de3208c99aa5/procedimiento
+CONAGUA,DISTRIBUIDORA NAIS SA DE CV,861786.0,Servicios,AA-16-B00-016B00013-N-33-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/5391e845c55741efb5b58dca3ff16c95/procedimiento
+IMSS,INNOVACION MEDICA Y TECNOLOGIAS PARA LA SALUD,842850.36,Consumibles,LA-50-GYR-050GYR023-T-91-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/84cd8f485af54ecda3196d44827c54ff/procedimiento
+IPN,PROMEFI SA DE CV,822612.07,Servicios,AA-11-B00-011B00001-N-2844-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/08ed72c3294d44b9b594b665993ab5cd/procedimiento
+IPN,COMERCIALIZADORA DE PRODUCTOS ADESTRA SA DE C,822275.86,Servicios,AA-11-B00-011B00001-N-3164-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/d145ab3c403b42a1b4d27ff8da7978dd/procedimiento
+IMSS,EVOELUTION SA DE CV,817186.0,Servicios,AA-50-GYR-050GYR019-N-76-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/d1d93c54c6954cb7adba64eb4c5c0a69/procedimiento
+IPN,CONTROL TECNICO Y REPRESENTACIONES SA DE CV,784065.0,Servicios,AA-11-B00-011B00001-N-2869-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/e8c383e4f3ec42bb92d33a7029196892/procedimiento
+IPN,PROMEFI SA DE CV,764224.14,Servicios,AA-11-B00-011B00001-N-3075-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/8410f5e3a684420cac6fc4ca3f86e15a/procedimiento
+IPN,BRUKER MEXICANA SA DE CV,762000.0,Servicios,AA-11-B00-011B00001-N-2909-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/decf06c75d9645a5b4b1f61aa99d9401/procedimiento
+IPN,BRUKER MEXICANA SA DE CV,753000.0,Servicios,AA-11-B00-011B00001-N-2856-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/41444b43864e46c8a0f17947470c4c19/procedimiento
+IMSS,CORPORATIVO EN SERVICIOS DE INGENIERIA MEDICA,736880.0,Consumibles,AA-50-GYR-050GYR009-T-134-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/532a898699614f88b2d8518da4882a5e/procedimiento
+IPN,CONTROL TECNICO Y REPRESENTACIONES SA DE CV,733992.93,Servicios,AA-11-B00-011B00001-N-2861-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/d1f3b819ec4d4d4a935ddad9d1e35656/procedimiento
+IMSS,PAK BIOMEDLAND TECH CARE SA DE CV,703950.0,Servicios,LA-50-GYR-050GYR013-N-72-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/768eb8a9bd05470e891e5d38ac6fa1ee/procedimiento
+IMSS,SERVICIO Y SOPORTE BIOMEDICO SA DE CV,699743.7,Servicios,LA-50-GYR-050GYR063-N-46-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/c1797ad57ac94a1cab444bde2e0002db/procedimiento
+IPN,WATERS SA DE CV,695520.26,Servicios,AA-11-B00-011B00001-N-3091-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/d04189877cfc426888488c35c8b42b75/procedimiento
+IMP,WATERS SA DE CV,686664.0,Laboratorio,AA-18-T0O-018T0O004-I-167-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/37ea8ceb64c64fb5b43fde52c3565dd9/procedimiento
+IMSS,ASESORES EN TECNOLOGIA BIOMEDICA S DE RL DE C,674000.0,Monitoreo,LA-50-GYR-050GYR027-T-83-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/7246c0ad2ad94f23896f7c0d5836b10e/procedimiento
+IPN,CARL ZEISS DE MEXICO SA DE CV,667258.38,Servicios,AA-11-B00-011B00001-N-2830-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/97535286e2854b22b958d66e678b5d88/procedimiento
+IMSS,DISTRIBUIDORA MEDICA INTEGRAL TIMED SA DE CV,656000.0,Consumibles,AA-50-GYR-050GYR067-T-82-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/f834f9673bac4e9c8f7795774e29a36e/procedimiento
+ISSEA,RODRIGO ANTONIO OSNAYA HERNANDEZ,647500.0,Servicios,IA-60-N56-901026999-N-7-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/0f72fd0f4dbb47ea8bc346849d4d8749/procedimiento
+CONAGUA,AGILENT TECHNOLOGIES MEXICO S DE RL DE CV,630888.0,Servicios,AA-16-B00-016B00015-N-42-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/abe9a8d996384171a210e172019ac570/procedimiento
+IMSS,INSUMOS MEDICOS LINDAVISTA SA DE CV,624000.0,Consumibles,AA-50-GYR-050GYR067-N-80-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/1b22d0d650e74173aa0129a6df30ab41/procedimiento
+SSN,EMM MEDICA SA DE CV,597530.0,Servicios,IA-77-014-918032996-N-7-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/cd93ed997af346cd9382dce96f0ca073/procedimiento
+IMSS,LUMAFESA S DE RL DE CV,580000.0,Ventilacion,LA-50-GYR-050GYR027-T-82-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/f32ca06c900c4139a6da4e7945369610/procedimiento
+SEMAR,GESTION TOTAL Y DIRECTIVA SA DE CV,573240.19,Servicios,AA-13-312-013000999-N-424-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/a7bc9b84cfa7429bb99fec7a30d40abc/procedimiento
+IMSS,MAFE MEDICAL SERVICE SA DE CV,568965.52,Servicios,LA-50-GYR-050GYR074-N-49-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/8c2932a54a9342ebb97c6c83a6296526/procedimiento
+IMSS,SOLUCIONES SAYAB SA DE CV,567891.91,Consumibles,AA-50-GYR-050GYR057-N-80-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/4b51c5b08dfb405dac30bd0781b67bbb/procedimiento
+SSA,ENRE MEDICAL SERVICE SA DE CV,566000.0,Servicios,AA-12-512-012000991-N-52-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/6d0d657369ae4f939cf2875c675af370/procedimiento
+IPN,BRUKER MEXICANA SA DE CV,561000.0,Servicios,AA-11-B00-011B00001-N-2907-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/4a7bb5716cba40f6bbc90eaa5420e143/procedimiento
+CINVESTAV,SPECTRIS MEXICO S DE RL DE CV,552300.0,Servicios,AA-11-L4J-011L4J999-N-554-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/a79bb72edb274e369f240d72862c3aa6/procedimiento
+IMSS,BTL LABORATORIOS DE TECNOLOGIA SA DE CV,528000.0,Consumibles,AA-50-GYR-050GYR030-N-138-2025,https://comprasmx.buengobierno.gob.mx/sitiopublico/#/sitiopublico/detalle/a499559776f2479ea21f0252b416b28c/procedimiento

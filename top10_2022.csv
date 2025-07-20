@@ -1,10 +1,100 @@
-ISSSTE,SAVARE MEDIKA SA DE CV,930000000.0,Tomografia
-ISSSTE,SAVARE MEDIKA SA DE CV,598000000.0,Resonancia magnetica
-IMSS,GE SISTEMAS MEDICOS DE MEXICO SA DE CV,577847000.0,Medicina nuclear
-IMSS,TELECOMUNICACION Y EQUIPOS SA DE CV,505250000.0,Tomografia
-ISSSTE,ELECTRONICA Y MEDICINA SA,391921052.3,Rayos x
-IMSS,INSTRUMENTACION MEDICA SA DE CV,264553800.0,Camas
-ISSSTE,CONSORCIO HERMES SA DE CV,258349000.0,Tecnologia de informacion
-ISSSTE,ELECTRONICA Y MEDICINA SA,215076125.1,Rayos x
-INSABI,TECNOLOGIAS EOS MEDICAL SA DE CV,160014618.0,Resonancia magnetica
-IMSS,JOSE SAFAR BOUERI,135505000.0,Dental
+ISSSTE,SAVARE MEDIKA SA DE CV,930000000.0,Tomografia,AA-051GYN020-E115-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2557253
+ISSSTE,SAVARE MEDIKA SA DE CV,598000000.0,Resonancia magnetica,AA-051GYN020-E113-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2557207
+IMSS,GE SISTEMAS MEDICOS DE MEXICO SA DE CV,577847000.0,Medicina nuclear,LA-050GYR040-E16-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2443640
+IMSS,TELECOMUNICACION Y EQUIPOS SA DE CV,505250000.0,Tomografia,LA-050GYR040-E17-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2443665
+ISSSTE,ELECTRONICA Y MEDICINA SA,391921052.3,Rayos x,AA-051GYN020-E101-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555383
+IMSS,INSTRUMENTACION MEDICA SA DE CV,264553800.0,Camas,LA-050GYR040-E26-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2473652
+ISSSTE,CONSORCIO HERMES SA DE CV,258349000.0,Tecnologia de informacion,AA-051GYN020-E121-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2558960
+ISSSTE,ELECTRONICA Y MEDICINA SA,215076125.1,Rayos x,AA-051GYN020-E99-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555212
+INSABI,TECNOLOGIAS EOS MEDICAL SA DE CV,160014618.0,Resonancia magnetica,LA-012M7B997-E29-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2452259
+IMSS,JOSE SAFAR BOUERI,135505000.0,Dental,LA-050GYR040-E20-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2450233
+ISSSTE,ELECTRONICA Y MEDICINA SA,129925598.0,Radioterapia,AA-051GYN020-E117-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2557293
+AGS,ELECTRONICA Y MEDICINA SA,129267707.6,Radioterapia,LA-901026999-E10-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2416020
+QRO,EMCYHH S DE RL DE CV,128764655.0,Accesorios,LA-922010998-E55-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2553216
+SEMAR,DEWIMED SA,128360540.0,Tomografia,AA-013000999-E912-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2474556
+IMSS,GRUPO TERRESCO SA DE CV,114326120.0,Refrigeracion,LA-050GYR040-E27-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2486509
+IMSS,VITER MEDICAL SA DE CV,102852750.0,Camas,LA-050GYR040-E26-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2473652
+IMSS,GRUPO ABUNDANZAA SA DE CV,102709620.0,Camas,LA-050GYR040-E26-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2473652
+INSABI,TECNOLOGIAS EOS MEDICAL SA DE CV,97313604.5,Resonancia magnetica,AA-012M7B998-E2-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2387085
+IMSS,FEHLMEX SA DE CV,92872000.0,Esterilizador,LA-050GYR040-E19-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2443790
+IMSS,HUMAN CORPORIS SA DE CV,82562362.0,Radioterapia,LA-050GYR040-E2-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2398454
+IMSS,CAF HEALTHCARE SYSTEMS SA DE CV,79998600.0,Carro rojo,LA-050GYR040-E38-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2547282
+ISSSTE,CORINDAL,70612000.0,Mesas,AA-051GYN020-E100-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555363
+ISSSTE,ELECTRONICA Y MEDICINA SA,69572435.0,Radioterapia,AA-051GYN020-E118-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2557332
+ISSSTE,HUMAN CORPORIS SA DE CV,68677562.0,Radioterapia,AA-051GYN020-E119-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2557343
+IMSS,GRUPO ABUNDANZAA SA DE CV,67574959.0,Instrumental medico,LA-050GYR040-E27-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2486509
+ISSSTE,SAVARE MEDIKA SA DE CV,65500000.0,Resonancia magnetica,AA-051GYN020-E114-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2557241
+ISSSTE,ELECTRONICA Y MEDICINA SA,60995234.0,Radioterapia,AA-051GYN020-E120-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2557348
+INP,HUMAN CORPORIS SA DE CV,59962062.0,Radioterapia,LA-012NCZ001-E136-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2416670
+ISSSTE,CORPORATIVO MS SISTEMAS MEDICOS SA DE CV,56100000.0,Electroencefalografo,AA-051GYN020-E92-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555190
+INSABI,POLAR HOSPITALARIA SA DE CV,53667405.1,Camas,AA-012M7B998-E2-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2387085
+INSABI,ELDORADO DISTRIBUCIONES,52347652.0,Endoscopia,LA-012M7B997-E70-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2490907
+IMSS,TECNOLOGIA Y DISENO INDUSTRIAL SAPI DE CV,52239846.0,Ortopedia,LA-050GYR082-E13-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2401938
+INSABI,POLAR HOSPITALARIA SA DE CV,51259474.0,Camas,LA-012M7B997-E29-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2452259
+ISSSTE,ELECTRONICA Y MEDICINA SA,50350058.78,Rayos x,AA-051GYN020-E102-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555425
+IMSS,CAMAS Y CAMILLAS SA DE CV,49955500.0,Camas,LA-050GYR040-E38-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2547282
+IMSS,MAPE+TZIN SA DE CV,49464000.0,Dental,LA-050GYR040-E20-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2450233
+IMSS,JOSE SAFAR BOUERI,48999900.0,Dental,LA-050GYR040-E21-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2451276
+INSABI,TELECOMUNICACION Y EQUIPOS SA DE CV,46950000.0,Resonancia magnetica,LA-012M7B997-E97-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2516679
+ISSSTE,FUJIFILM DE MEXICO SA DE CV,46500000.0,Endoscopia,AA-051GYN020-E97-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555208
+ISSSTE,CENTRAL MEDICA DE SUMINISTROS SA DE CV,43225800.0,Lamparas,AA-051GYN020-E29-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2527232
+IMSS,ABSTEN DIAGNOSTIK SA DE CV,40247262.0,Camas,LA-050GYR040-E26-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2473652
+IMSS,CENTRAL MEDICA DE SUMINISTROS SA DE CV,39652800.0,Monitoreo,LA-050GYR040-E38-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2547282
+ISSSTE,CONSORCIO HERMES SA DE CV,38612000.0,Tecnologia de informacion,AA-051GYN020-E121-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2558960
+IMSS,SERVICIOS BIOMEDICOS BAZAFI SA DE CV,37575560.0,Ventilacion,LA-050GYR040-E38-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2547282
+ISSSTE,DIMSA INTERPRETACION MEDICA SA DE CV,36310494.0,Instrumental medico,AA-051GYN020-E8-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2527064
+ISSSTE,SERVICIO Y VENTA DE INSUMOS MEDICOS ESPECIALI,35580350.0,Mastografia,AA-051GYN020-E55-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2527735
+ISSSTE,NEUROSERVICE INTERNACIONAL SA DE CV,34875000.0,Instrumental quirurgico,AA-051GYN020-E95-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555202
+QRO,HEALTHCARE SYSTEMS DE MEXICO SA DE CV,33671494.54,Servicios,AA-922010998-E71-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2559609
+INSABI,DEWIMED SA,33614710.0,Instrumental medico,AA-012M7B998-E2-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2387085
+INSABI,POLAR HOSPITALARIA SA DE CV,32726417.0,Anestesia,LA-012M7B997-E70-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2490907
+SEMAR,SIEMENS HEALTHCARE DIAGNOSTICS S DE RL DE CV,32578154.22,Servicios,AA-013000999-E129-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2393562
+INSABI,DEWIMED SA,31638100.0,Oftalmo,LA-012M7B997-E70-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2490907
+ISSSTE,ESPECIALISTAS EN APLICACIONES Y SOPORTE TECNI,31620000.0,Oftalmo,AA-051GYN020-E91-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555180
+ISSSTE,SAVARE MEDIKA SA DE CV,31500000.0,Tomografia,AA-051GYN020-E116-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2557260
+ISSSTE,CENTRAL MEDICA DE SUMINISTROS SA DE CV,30750600.0,Cuidado materno infantil,AA-051GYN020-E13-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2527115
+BC,DESARROLLOS Y APLICACIONES MJD SA DE CV,30700200.0,Servicios,LA-902052996-E9-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2446807
+IMSS,GRUPO PROMEDICA DE MORELOS SA DE CV,30618790.0,Mesas,LA-050GYR040-E18-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2443720
+IMSS,VISION BIOMEDICA SA DE CV,30603446.46,Servicios,LA-050GYR028-E711-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2367991
+IMSS,RADIOLOGIA Y ELECTRONICA DE MEXICO SA DE CV,30184000.0,Ultrasonido,LA-050GYR040-E19-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2443790
+ISSSTE,RADIOLOGIA Y ELECTRONICA DE MEXICO SA DE CV,29268300.0,Ultrasonido,AA-051GYN020-E17-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2527149
+IMSS,MANTENIMIENTO PREVENTIVO Y CORRECTIVO SA DE C,27840000.0,Camas,LA-050GYR040-E26-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2473652
+INSABI,ELDORADO DISTRIBUCIONES,27145554.5,Mobiliario,AA-012M7B998-E2-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2387085
+IMSS,MEDINGENIUM SA DE CV,25928100.0,Camas,LA-050GYR040-E26-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2473652
+IMSS,NURIMED SA DE CV,25448422.8,Refrigeracion,LA-050GYR040-E18-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2443720
+INCAN,ELECTRONICA Y MEDICINA SA,25424206.02,Servicios,AA-012NBV001-E329-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2529859
+INSABI,DEWIMED SA,24749800.0,Instrumental quirurgico,LA-012M7B997-E29-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2452259
+IMSS,QUANTUM MEDICAL GROUP SA DE CV,24720000.0,Ventilacion,LA-050GYR040-E38-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2547282
+IMSS,HEALTHCARE SYSTEMS DE MEXICO SA DE CV,24513600.0,Hemodinamia,LA-050GYR057-E252-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2488763
+IPN,EDUBYTES SA DE CV,24413471.77,Esterilizador,LA-011B00001-E1871-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2432878
+HRAEI,I L DIAGNOSTICS SA DE CV,24137439.26,Consumibles,AA-012NBU999-E65-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2447454
+SEMAR,DEWIMED SA,23917788.2,Instrumental medico,AA-013000999-E1411-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2511006
+IMSS,HEALTHCARE SYSTEMS DE MEXICO SA DE CV,23900000.0,Hemodinamia,LA-050GYR005-E305-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2508728
+IMSS,MEDICAL IT S A P I DE CV,23757160.0,Camas,LA-050GYR040-E38-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2547282
+ISSSTE,FOREFRONT MEDICA MEXICO SA DE CV,23037500.0,Instrumental quirurgico,AA-051GYN020-E96-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555206
+SLP,BARITANO SA DE CV,22827044.91,Servicios,LA-924016995-E17-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2476103
+SLP,BARITANO SA DE CV,22827044.91,Servicios,LA-924016995-E17-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2476103
+IMSS,INSUMOS Y EQUIPOS MEDICOS CEO S DE RL DE CV,22724080.0,Balanza,LA-050GYR040-E18-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2443720
+SEMAR,HOSPITIUM SOLUTIONS SA DE CV,22662474.38,Mesas,IA-013000999-E827-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2468870
+CINVESTAV,CARL ZEISS DE MEXICO SA DE CV,22037266.0,Servicios,AA-011L4J999-E415-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2491362
+ISSSTE,RADIOLOGIA Y ELECTRONICA DE MEXICO SA DE CV,21707320.0,Ultrasonido,AA-051GYN020-E43-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2527525
+SEMAR,ELECTRONICA Y MEDICINA SA,21062166.59,Servicios,AA-013000999-E145-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2402636
+IMSS,DURFA SA DE CV,20380898.5,Consumibles,LA-050GYR088-E64-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2439777
+IMSS,MPS MEDICAL SA DE CV,20356495.87,Servicios,AA-050GYR009-E97-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2452433
+ISSSTE,COMERCIALIZADORA MAVERO SA DE CV,20171040.0,Laboratorio,AA-051GYN020-E107-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555589
+ISSSTE,CORPORATIVO MS SISTEMAS MEDICOS SA DE CV,20079000.0,Electroencefalografo,AA-051GYN020-E103-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555459
+INSABI,MEDICAL EQUIPMENT AND DISPOSABLES DE MEXICO S,19589885.0,Refrigeracion,LA-012M7B997-E29-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2452259
+ISSSTE,DEWIMED SA,19570896.0,Lamparas,AA-051GYN020-E89-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555156
+ISSSTE,CORPORATIVO MS SISTEMAS MEDICOS SA DE CV,19206000.0,Electroencefalografo,AA-051GYN020-E104-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2555497
+INSABI,DERI MEX SA DE CV,19059259.7,Camas,AA-012M7B998-E2-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2387085
+INER,SIEMENS HEALTHCARE DIAGNOSTICS S DE RL DE CV,18785000.0,Tomografia,AA-012NCD001-E341-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2506454
+INSABI,CAMAS Y CAMILLAS SA DE CV,18429440.0,Camas,LA-012M7B997-E15-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2436530
+INMEGEN,CONSULTORIA JURIDICA HP&DF ASOCIADOS SA DE CV,18402002.57,Laboratorio,AA-012NCH001-E142-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2529737
+INSABI,DERI MEX SA DE CV,17647462.0,Camas,LA-012M7B997-E29-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2452259
+IMSS,PANACEA MANTENIMIENTO Y CONSTRUCCION INTEGRAL,17440006.95,Servicios,IA-050GYR078-E53-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2512335
+IMSS,TECNOLOGIA Y DISENO INDUSTRIAL SAPI DE CV,17164300.0,Ortopedia,AA-050GYR082-E46-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2438524
+IMSS,DEWIMED SA,17078043.78,Oftalmo,AA-050GYR040-E40-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2550779
+IMSS,DISTRIBUIDORA DE EQUIPO MEDICO E INDUSTRIAL D,16994934.0,Lamparas,LA-050GYR040-E18-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2443720
+IMSS,TELECOMUNICACION Y EQUIPOS SA DE CV,16800000.0,Tomografia,LA-050GYR040-E1-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2394974
+IMSS,SIEMENS HEALTHCARE DIAGNOSTICS S DE RL DE CV,16655000.0,Tomografia,LA-050GYR040-E36-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2514509
+IMSS,RADIOLOGIA Y ELECTRONICA DE MEXICO SA DE CV,16080000.0,Ultrasonido,LA-050GYR040-E38-2022,https://historico-compranet.buengobierno.gob.mx/#/detalle/2547282

@@ -1,10 +1,100 @@
-ISSSTE,NUDOMI SA DE CV,233600000.0,Rayos x
-SEDENA,VITALMEX INTERNACIONAL SA DE CV,216496183.5,Servicios
-SEDENA,FARMACEUTICOS MAYPO SA DE CV,118232931.75,Servicios
-IMSS,VITER MEDICAL SA DE CV,87748090.98,Monitoreo
-IMSS,MINARIC SA DE CV,83137809.8,Monitoreo
-IMSS,NUDOMI SA DE CV,75902842.18,Terapia
-NL,EMPRESAS KLAVE SA DE CV,75855000.0,Laboratorio
-IMSS,GRUPO COMERCIALIZADOR ROIAL SA DE CV,71546300.0,Monitoreo
-PUE,9 ONCE DISTRIBUIDORA SA DE CV,67564610.36,Servicios
-INSABI,TECNOLOGIAS EOS MEDICAL SA DE CV,65613745.85,Camas
+ISSSTE,NUDOMI SA DE CV,233600000.0,Rayos x,LA-051GYN020-E27-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2336850
+SEDENA,VITALMEX INTERNACIONAL SA DE CV,216496183.5,Servicios,LA-007000999-E950-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2324598
+SEDENA,FARMACEUTICOS MAYPO SA DE CV,118232931.75,Servicios,LA-007000999-E619-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2283036
+IMSS,VITER MEDICAL SA DE CV,87748090.98,Monitoreo,LA-050GYR040-E14-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2275387
+IMSS,MINARIC SA DE CV,83137809.8,Monitoreo,LA-050GYR040-E14-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2275387
+IMSS,NUDOMI SA DE CV,75902842.18,Terapia,LA-050GYR040-E21-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2303799
+NL,EMPRESAS KLAVE SA DE CV,75855000.0,Laboratorio,LA-919043975-E1-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2364495
+IMSS,GRUPO COMERCIALIZADOR ROIAL SA DE CV,71546300.0,Monitoreo,AA-050GYR040-E24-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2319884
+PUE,9 ONCE DISTRIBUIDORA SA DE CV,67564610.36,Servicios,LA-921002997-E3-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2132633
+INSABI,TECNOLOGIAS EOS MEDICAL SA DE CV,65613745.85,Camas,AA-012M7B998-E138-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2346651
+INSABI,TECNOLOGIAS EOS MEDICAL SA DE CV,65613745.85,Camas,AA-012M7B998-E138-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2346651
+ISSSTE,SERVICIOS AVANZADOS EN MEDICINA INTEGRAL SA D,64877155.72,Instrumental quirurgico,LA-051GYN020-E28-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341639
+INSABI,TECNOLOGIAS EOS MEDICAL SA DE CV,63001450.0,Construccion,AA-012M7B998-E107-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2315222
+INSABI,MEDICAL ADVANCED SUPPLIES SA DE CV,57852332.0,Covid,AA-012M7B998-E181-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2371721
+ISSSTE,ASESORES EN TECNOLOGIA BIOMEDICA S DE RL DE C,55598503.1,Instrumental quirurgico,LA-051GYN020-E29-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341672
+SEDENA,BERNARDO BONILLA MERCADO,55175625.2,Dental,LA-007000999-E881-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2317082
+IMSS,ACE MEDICAL,54477831.33,Monitoreo,LA-050GYR040-E14-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2275387
+IMSS,MEDIXSA SA DE CV,51506273.89,Rayos x,LA-050GYR040-E14-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2275387
+IMSS,GE SISTEMAS MEDICOS DE MEXICO SA DE CV,49022402.4,Ventilacion,LA-050GYR040-E14-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2275387
+ISSSTE,LUMAFESA S DE RL DE CV,46885200.0,Monitoreo,LA-051GYN020-E26-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2330122
+IMSS,GRUPO BUKBARA SA DE CV,46766309.89,Terapia,LA-050GYR040-E21-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2303799
+ISSSTE,PHILIPS MEXICO COMMERCIAL SA DE CV,43591196.0,Servicios,LA-051GYN010-E13-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2303435
+ISSSTE,MEDTRONIC S DE RL DE CV,43162992.0,Instrumental quirurgico,LA-051GYN020-E29-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341672
+ISSSTE,LUMAFESA S DE RL DE CV,42997050.0,Monitoreo,LA-051GYN020-E28-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341639
+INNN,SIEMENS HEALTHCARE DIAGNOSTICS S DE RL DE CV,41112918.828,Servicios,AA-012NCK002-E78-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2344824
+INSABI,POLAR HOSPITALARIA SA DE CV,38588528.5,Construccion,AA-012M7B998-E107-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2315222
+INSABI,TECNOLOGIAS EOS MEDICAL SA DE CV,38090953.5,Rayos x,AA-012M7B998-E185-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2375934
+INSABI,TECNOLOGIAS EOS MEDICAL SA DE CV,38090953.5,Rayos x,AA-012M7B998-E185-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2375934
+ISSSTE,SINCRONIA MEDICA APLICADA SA DE CV,36750000.0,Ultrasonido,LA-051GYN020-E30-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341831
+IMSS,TECNOLOGIA Y DISENO INDUSTRIAL SAPI DE CV,35869461.0,Ortopedia,LA-050GYR082-E66-2020,https://historico-compranet.buengobierno.gob.mx/#/detalle/2198335
+IMSS,DISTRIBUIDORA WESLY SA DE CV,35375850.0,Camas,AA-050GYR040-E32-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2348377
+INCARD,GE SISTEMAS MEDICOS DE MEXICO SA DE CV,34482756.43,Tomografia,LA-012NCA001-E866-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2327315
+INNN,GE SISTEMAS MEDICOS DE MEXICO SA DE CV,32023817.0703,Servicios,AA-012NCK002-E79-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2345256
+IMSS,INGENIERIA MANTENIMIENTO Y SERVICIOS INTEGRAL,30876450.0,Camaras,AA-050GYR040-E28-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2336972
+INSABI,ABSTEN DIAGNOSTIK SA DE CV,30150000.0,Construccion,AA-012M7B998-E107-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2315222
+ISSSTE,MEDICAL DIMEGAR SA DE CV,30060000.0,Oftalmo,LA-051GYN020-E29-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341672
+IMSS,QUALIS SKOPEIN SA DE CV,30005000.0,Sistemas,AA-050GYR998-E247-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2363585
+ISSSTE,SERVICIO Y VENTA DE INSUMOS MEDICOS ESPECIALI,28134000.0,Mesas,LA-051GYN020-E31-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341844
+ISSSTE,SIEMENS HEALTHCARE DIAGNOSTICS S DE RL DE CV,27777750.0,Ultrasonido,LA-051GYN020-E27-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2336850
+ISSSTE,GERD YERIK SA DE CV,27500000.1,Electromiografo,LA-051GYN020-E31-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341844
+ISSSTE,VARLIX MEXICO SA DE CV,26460450.0,Laboratorio,LA-051GYN020-E31-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341844
+SEDENA,DENTAL MEXKOMET SA DE CV,26368280.0,Dental,LA-007000999-E881-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2317082
+IMSS,SERVICIOS BIOMEDICOS BAZAFI SA DE CV,25444438.58,Ventilacion,LA-050GYR040-E14-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2275387
+SENASICA,PETRO SERVICIOS DE TULA SA DE CV,24948395.33,Servicios,LA-008B00001-E106-2020,https://historico-compranet.buengobierno.gob.mx/#/detalle/2195056
+ISSSTE,ELECTRONICA Y MEDICINA SA,24480000.0,Rayos x,LA-051GYN020-E27-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2336850
+ISSSTE,INSTRUMENTACION MEDICA SA DE CV,24290000.0,Laser,LA-051GYN020-E31-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341844
+INBAL,IMPULSORA CULTURAL Y TECNOLOGICA SA DE CV,23964679.32,,LA-048E00995-E910-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2342185
+INSABI,POLAR HOSPITALARIA SA DE CV,23467040.0,Anestesia,AA-012M7B998-E185-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2375934
+INSABI,POLAR HOSPITALARIA SA DE CV,23467040.0,Mesas,AA-012M7B998-E185-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2375934
+HRAEI,I L DIAGNOSTICS SA DE CV,23182106.61,Consumibles,AA-012NBU999-E34-2021,https://compranet.hacienda.gob.mx/esop/guest/go/opportunity/detail?opportunityId=1957077
+INSABI,PREVENCION Y SOLUCIONES K-B SA DE CV,22625800.0,Covid,AA-012M7B998-E181-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2371721
+IMSS,SERVICIO Y VENTA DE INSUMOS MEDICOS ESPECIALI,22142134.0,Rayos x,LA-050GYR006-E453-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2331906
+ISSSTE,ERGONOMIA PRODUCTIVIDAD SA DE CV,22071480.0,Mobiliario,LA-051GYN020-E30-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341831
+INER,KENDALL DE MEXICO SA DE CV,22000000.0,Ventilacion,AA-012NCD001-E99-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2251953
+IMSS,INSUMEDIC SA DE CV,21879823.0,Construccion,LA-050GYR007-E551-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2292037
+ISSSTE,COMPANIA INTERNACIONAL DE DISTRIBUCIONES SA D,21870000.0,Instrumental quirurgico,LA-051GYN020-E28-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341639
+INCAN,ELECTRONICA Y MEDICINA SA,21767570.92,Servicios,AA-012NBV001-E372-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2342419
+INSABI,BIOSYSTEMS HLS SA DE CV,21247157.36,Construccion,AA-012M7B998-E107-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2315222
+INSABI,CIRKLOMED SOLUCIONES INTEGRALES SA DE CV,19330000.0,Camas,AA-012M7B998-E138-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2346651
+INSABI,CIRKLOMED SOLUCIONES INTEGRALES SA DE CV,19330000.0,Camas,AA-012M7B998-E138-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2346651
+IMSS,VITER MEDICAL SA DE CV,18204750.0,Camas,AA-050GYR040-E10-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2235516
+INSABI,SUMINISTRO PARA USO MEDICO Y HOSPITALARIO SA,17783000.0,Construccion,AA-012M7B998-E107-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2315222
+IMSS,VISION BIOMEDICA SA DE CV,17169905.19,Servicios,LA-050GYR989-E9-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2318066
+ISSSTE,NURIMED SA DE CV,16768459.5,Monitoreo,LA-051GYN020-E26-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2330122
+HIM,SIEMENS HEALTHCARE DIAGNOSTICS S DE RL DE CV,16722096.0,Servicios,AA-012NBG001-E10-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2228582
+IMSS,HOSPITIUM SOLUTIONS SA DE CV,16707200.0,Camas,AA-050GYR040-E10-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2235516
+INSABI,INSTRUMENTACION MEDICA SA DE CV,16591729.0,Construccion,AA-012M7B998-E107-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2315222
+INSABI,POLAR HOSPITALARIA SA DE CV,15327875.87,Endoscopia,AA-012M7B998-E193-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2383376
+INSABI,POLAR HOSPITALARIA SA DE CV,15327875.87,Ventilacion,AA-012M7B998-E193-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2383376
+INCMNSZ,ELECTRONICA Y MEDICINA SA,15081210.0,Servicios,AA-012NCG001-E1507-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2348883
+ISSSTE,SERVICIOS AVANZADOS EN MEDICINA INTEGRAL SA D,14988713.3,Instrumental quirurgico,LA-051GYN020-E28-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341639
+ISSSTE,MEDICAL DIMEGAR SA DE CV,14850000.0,Laser,LA-051GYN020-E31-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341844
+INSABI,TMU FACILITY MANAGEMENT SA DE CV,14836786.97,Construccion,AA-012M7B998-E104-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2312890
+IMSS,FEHLMEX SA DE CV,14808542.63,Terapia,LA-050GYR040-E21-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2303799
+ISSSTE,SUMINISTRO PARA USO MEDICO Y HOSPITALARIO SA,14723526.0,Servicios,LA-051GYN010-E13-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2303435
+HRAEV,INGENIERIA Y SISTEMAS ELECTROMEDICOS SA DE CV,14560150.0,Servicios,LA-012NBT999-E45-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2223914
+SEDENA,BC IRAMA DE MEXICO SAS DE CV,14195491.0,Servicios,AA-007000999-E1129-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2353846
+SEDENA,CARL ZEISS DE MEXICO SA DE CV,13890350.0,Rayos x,LA-007000997-E707-2020,https://historico-compranet.buengobierno.gob.mx/#/detalle/2199929
+INSABI,RADIOLOGIA Y ELECTRONICA DE MEXICO SA DE CV,13860000.0,Camas,AA-012M7B998-E138-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2346651
+INSABI,RADIOLOGIA Y ELECTRONICA DE MEXICO SA DE CV,13860000.0,Camas,AA-012M7B998-E138-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2346651
+IMSS,QUIRURGICA ORTOPEDICA SA DE CV,13701789.0,Ortopedia,LA-050GYR082-E10-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2231156
+IMSS,ISM INNOVA SALUD MEXICO S A P I DE CV,13462000.0,Laboratorio,LA-050GYR024-E494-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2313205
+IMSS,DISTRIBUIDORA WESLY SA DE CV,13420000.0,Camas,AA-050GYR040-E10-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2235516
+CIDESI,SISTEMAS E INGENIERIA DE EMC SA DE CV,13312973.0,Laboratorio,LA-0389ZU001-E8-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2260129
+ISSSTE,COMPANIA INTERNACIONAL DE DISTRIBUCIONES SA D,12839400.0,Instrumental quirurgico,LA-051GYN020-E28-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2341639
+INCARD,HEALTHCARE SYSTEMS DE MEXICO SA DE CV,12824269.0,Medicamentos,AA-012NCA001-E1191-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2354670
+IMSS,MEDICAL DIMEGAR SA DE CV,12727400.0,Consumibles,LA-050GYR058-E587-2020,https://historico-compranet.buengobierno.gob.mx/#/detalle/2198646
+IMSS,AGD MEDICAL SA DE CV,12617226.22,Servicios,LA-050GYR025-E631-2020,https://historico-compranet.buengobierno.gob.mx/#/detalle/2206458
+HRAEB,SIEMENS HEALTHCARE DIAGNOSTICS S DE RL DE CV,12554069.18,Servicios,AA-012NBQ001-E32-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2224623
+HGM,SIEMENS HEALTHCARE DIAGNOSTICS S DE RL DE CV,12552282.41,Servicios,AA-012NBD001-E224-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2279068
+IMSS,DEWIMED SA,12462869.41,Construccion,LA-050GYR007-E551-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2292037
+ISSSTE,GRUPO ABUNDANZAA SA DE CV,11962720.0,Instrumental medico,LA-051GYN059-E9-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2336856
+INSABI,DERI MEX SA DE CV,11829082.31,Construccion,AA-012M7B998-E107-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2315222
+IMSS,SOPORTE HOSPITALARIO CENTRAL SA DE CV,11722933.34,Consumibles,LA-050GYR082-E14-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2236259
+HJM,CYBER ROBOTIC SOLUTIONS SA DE CV,11688935.0,Servicios,AA-012NAW001-E321-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2251487
+INSABI,SINCRONIA MEDICA APLICADA SA DE CV,10975000.0,Camas,AA-012M7B998-E138-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2346651
+INSABI,SINCRONIA MEDICA APLICADA SA DE CV,10975000.0,Camas,AA-012M7B998-E138-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2346651
+COFEPRIS,INOLAB ESPECIALISTAS DE SERVICIO SA DE CV,10901139.0,Servicios,LA-012S00001-E105-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2342061
+INSABI,DERI MEX SA DE CV,10485520.0,Camas,AA-012M7B998-E138-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2346651
+INSABI,DERI MEX SA DE CV,10485520.0,Camas,AA-012M7B998-E138-2021,https://historico-compranet.buengobierno.gob.mx/#/detalle/2346651
